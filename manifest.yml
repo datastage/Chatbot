@@ -1,8 +1,8 @@
 ---
 applications:
-- name: cognitiveharry
+- name: WANGTEST
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: 8a10f744-cf61-4b84-8570-bb7858df4cdb
-    CAR_SERVICE_HOST: innovationiot.mybluemix.net
+    CONVERSATION_WORKSPACE_ID: 8daff36f-bbf7-4e46-b870-0cd7b7dceb69
+    CAR_SERVICE_HOST: JUNTEST.mybluemix.net
